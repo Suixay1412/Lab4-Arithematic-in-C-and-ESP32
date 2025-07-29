@@ -108,7 +108,7 @@ ESP_LOGI(TAG, "🍊 รสส้ม: %d ถุง = %d เม็ด",
 ESP_LOGI(TAG, "🍇 รสองุ่น: %d ถุง = %d เม็ด", 
          grape_bags, grape_bags * candies_per_bag);
 ```
-
+### Result
 ```c
 I (5834) spi_flash: detected chip: winbond
 I (5844) spi_flash: flash io: dio
